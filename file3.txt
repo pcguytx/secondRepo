@@ -1,1 +1,2 @@
 file3 local
+this is just a bug fix
